@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/thoma-pishtari/static/css/main.a103f23a.css",
+    "main.js": "/thoma-pishtari/static/js/main.13f19bb0.js",
+    "static/media/me.png": "/thoma-pishtari/static/media/me.e4a76711888104357e47.png",
+    "static/media/me-about.jpg": "/thoma-pishtari/static/media/me-about.c60dae01ca4cf8612a9a.jpg",
+    "static/media/portfolio2.jpg": "/thoma-pishtari/static/media/portfolio2.e17854c895afbdcbd3c2.jpg",
+    "static/media/portfolio1.jpg": "/thoma-pishtari/static/media/portfolio1.d542f70d1467c7d82d7f.jpg",
+    "static/media/CV - Thoma Pishtari.pdf": "/thoma-pishtari/static/media/CV - Thoma Pishtari.47b2d68761060e38e6f1.pdf",
+    "index.html": "/thoma-pishtari/index.html",
+    "main.a103f23a.css.map": "/thoma-pishtari/static/css/main.a103f23a.css.map",
+    "main.13f19bb0.js.map": "/thoma-pishtari/static/js/main.13f19bb0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a103f23a.css",
+    "static/js/main.13f19bb0.js"
+  ]
+}
